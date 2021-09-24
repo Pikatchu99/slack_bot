@@ -6,7 +6,7 @@ include Clockwork
 
 
 
-client = SlackNotify::Client.new(webhook_url: "https://hooks.slack.com/services/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")
+client = SlackNotify::Client.new(webhook_url: "https://hooks.slack.com/services/.................")
 #client.test
 
 handler do
