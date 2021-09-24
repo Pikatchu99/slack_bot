@@ -89,4 +89,4 @@ rake console
 
 Copyright (c) 2013-2015 Dan Sosedoff, <dan.sosedoff@gmail.com>
 
-MIT License
+MIT License# slack_bot
